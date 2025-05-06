@@ -69,7 +69,7 @@ document.addEventListener("DOMContentLoaded", function () {
       <p><strong>Biaya Layanan:</strong> IDR 0</p>
       <p><strong>Total Bayar:</strong> IDR <span id="jumlahTotal"></span></p>
       <p><strong>Pembayaran via QRIS:</strong></p>
-      <img class="qris" src="https://imagizer.imageshack.com/v2/320xq70/r/922/uOeZAn.jpg" alt="QRIS" style="display:block;margin:10px auto;max-width:250px;" />
+      <img class="qris" src="" alt="QRIS" style="display:block;margin:10px auto;max-width:250px;" />
     </div>
     <img src="https://gtyfup2m.112400c1199c.com/poster-QRIS.jpg" alt="Partners" style="margin-top: 40px; max-width: 90%;" />
   `;
